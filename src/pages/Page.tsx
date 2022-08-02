@@ -1,5 +1,4 @@
-import React from 'react'
-import PropTypes from 'prop-types'
+import './Page.sass'
 
 const Page = ({title, img}: PageProps) => {
   return (
