@@ -1,9 +1,12 @@
 import React from 'react';
 import Header from './components/Header';
+import './index.sass'
 
 function App() {
   return (
-	  <Header />
+	  <div className="wrapper">
+		  <Header />
+	  </div>
   );
 }
 
