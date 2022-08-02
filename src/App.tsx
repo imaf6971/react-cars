@@ -4,9 +4,9 @@ import './index.sass'
 
 function App() {
   return (
-	  <div className="wrapper">
-		  <Header />
-	  </div>
+    <div className="wrapper">
+      <Header />
+    </div>
   );
 }
 
